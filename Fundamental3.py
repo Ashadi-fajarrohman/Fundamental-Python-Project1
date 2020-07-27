@@ -1,5 +1,6 @@
 # Ditionary
 
+
 print('Data ini dikirimkan oleh server gojek, untuk memberikan info driver terdekat di sekitar user')
 
 data_gojek = {
